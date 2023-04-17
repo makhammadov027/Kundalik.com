@@ -1,0 +1,572 @@
+
+<!DOCTYPE html>
+<html>
+<head lang="ru">
+    <meta name="google" value="notranslate"/>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <link rel="icon" href="https://static.kundalik.com/img/icons/favicon_Uz.ico" sizes="16x16 24x24 32x32 48x48 64x64" type="image/x-icon"/>
+        <link rel="shortcut icon" href="https://static.kundalik.com/img/icons/favicon_Uz.ico" sizes="16x16 24x24 32x32 48x48 64x64" type="image/x-icon"/>
+    
+        <!-- non-retina iPhone pre iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/57x57.png" sizes="57x57"/>
+        <!-- non-retina iPad pre iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/72x72.png" sizes="72x72"/>
+        <!-- non-retina iPad iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/76x76.png" sizes="76x76"/>
+        <!-- retina iPhone pre iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/114x114.png" sizes="114x114"/>
+        <!-- retina iPhone iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/120x120.png" sizes="120x120"/>
+        <!-- retina iPad pre iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/144x144.png" sizes="144x144"/>
+        <!-- retina iPad iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/152x152.png" sizes="152x152"/>
+    
+        <!-- Windows 8 tile -->
+        <meta name="msapplication-TileImage" content="https://static.kundalik.com/img/icons/favicons_Uz/microsoft/144x144.png"/>
+        <meta name="msapplication-TileColor" content="#FFFFFF"/>
+        <meta name="application-name" content="Kundalik | &#x412;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;&#x441;&#x442;&#x438;"/>
+    
+        <!-- IE11 tiles -->
+        <meta name="msapplication-square70x70logo" content="https://static.kundalik.com/img/icons/favicons_Uz/microsoft/70x70.png"/>
+        <meta name="msapplication-square150x150logo" content="https://static.kundalik.com/img/icons/favicons_Uz/microsoft/150x150.png"/>
+        <meta name="msapplication-wide310x150logo" content="https://static.kundalik.com/img/icons/favicons_Uz/microsoft/310x150.png"/>
+        <meta name="msapplication-square310x310logo" content="https://static.kundalik.com/img/icons/favicons_Uz/microsoft/310x310.png.png" />
+    
+    
+
+    <title>Kundalik | &#x412;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;&#x441;&#x442;&#x438;</title>
+
+    
+        <link rel="stylesheet" href="https://static.kundalik.com/assets/styles/main.min.3a60af39.css?v=3a60af39" media="all" type="text/css" />
+
+    <link rel="stylesheet" href="https://static.kundalik.com/styles/main/common.css?v=58470ee9" media="all" type="text/css"/>
+    <link rel="stylesheet" href="https://static.kundalik.com/blocks/blocks.css?v=f2d396fc" media="all" type="text/css" />
+
+
+<link rel="stylesheet" href="https://static.kundalik.com/client/notifications.css?v=836810af" type="text/css" />
+    
+<script type="text/javascript">var dnevnik = {"urls":{"domain":"kundalik.com","taskStateUrl":"https://kundalik.com/user/TaskStateHandler.ashx","moderate":null,"whiteList":["2gis.ru","adfox.ru","aliexpress.com","apple.com","avito.ru","booking.com","csdnevnik.ru","dnevnik.ru","dnevnik.ru","facebook.com","fotostrana.ru","foxford.ru","gismeteo.ru","globallab.org","google.com","google.ru","gosuslugi.ru","hh.ru","instagram.com","instagram.com","kinopoisk.ru","lego.com","lenta.ru","letovo.ru","livejournal.com","magnit.ru","magnit-info.ru","magnitznaniy.ru","mail.ru","microsoft.com","mosreg.ru","mosregtest.ru","office.com","office365.com","ok.ru","onenote.com","pikabu.ru","rambler.ru","rbc.ru","research.net","ria.ru","sberbank.ru","sharepoint.com","surveymonkey.com","surveymonkey.ru","twitch.tv","twitter.com","vk.com","wikipedia.org","yadi.sk","yaklass.ru","yandex.ru","youtu.be","youtube.com","kundalik.com","utube.uz","imumk.ru","https://uz.mfactory.online/","kundalik.analyticsapp.uz","kundalik.ozlashtah.uz"],"userCounters":"https://kundalik.com/counters","emailSettings":"https://kundalik.com/user/settings.aspx?view=email","smilesSpriteUrl":"https://static.kundalik.com/images/sprites/emojione.sprites.svg","tinyMceBaseUrl":"https://static.kundalik.com/assets/scripts/vendors/tinymce","gaAutoLinkUrls":null,"adblockDummyUrl":""},"settings":{"googleAnalytics":{"defaultId":"","appsId":"","adId":"","contactId":"","eventsId":"","groupsId":"","loginId":"","messengerId":"","networksId":"","childrenId":"","peopleId":"","schoolsId":"","wikiId":"","mainId":"","appSubscriptionId":"","limitedCounterId":"UA-106329441-1","limitedCounterSampleRate":1},"yandexMetrikaIds":["52725535"],"yandexMetrikaСlickmapEnabled":true,"enableAdFoxZeroPixel":true,"yandexMetrikaId":"52725535","environmentPrefix":"Uz","yandexMetrikaWebvisorEnabled":false},"fileUploadSettings":{"stateUrl":"https://content.kundalik.com/gettaskstatus","resultUrl":"https://content.kundalik.com/getresult","deleteFileUrl":"https://content.kundalik.com/delete","deleteFolderUrl":"https://content.kundalik.com/deletefolder","defaultFileSizeLimit":"2147483648"},"user":null,"auth":{"isAuthenticated":false,"updateInterval":600000,"loginUrl":"https://login.kundalik.com/auth","masterLoginUrl":null},"visitParams":{"__RedesignAbGroup2":"groupA"},"localizationSchoolType":null};</script>
+
+            <script type="text/javascript" src="https://static.kundalik.com/assets/scripts/modules/redesign.min.200c4c4b.js?v=200c4c4b"></script>
+    <script type="text/javascript" src="https://static.kundalik.com/assets/scripts/vendors/requirejs/require-2.1.6.js?v=ef8e5d03"></script>
+    <script type="text/javascript">
+        require.config({
+            baseUrl: "https://static.kundalik.com/assets/scripts/modules",
+            urlArgs: "v=47e49393",
+        });
+    </script>
+            <script type="text/javascript" src="https://static.kundalik.com/assets/scripts/modules/main-redesign.min.a8e15e2a.js?v=a8e15e2a"></script>
+    <script type="text/javascript" src="https://static.kundalik.com/blocks/blocks.js?v=ecc289ee"></script>
+    <script type="text/javascript" src="https://static.kundalik.com/javascripts/local/ru.js?v=0320e479"></script>
+
+</head>
+<body class="">
+    <script>
+        window.environmentPrefix = "uz";
+        window.environmentPrefix = "";
+    </script>
+
+    
+
+
+<header class="header-anon" id="header-anon">
+
+    <div class="colored-line colored-line_uz">
+        <div class="colored-line__item colored-line__item_blue"></div>
+        <div class="colored-line__item colored-line__item_green"></div>
+        <div class="colored-line__item colored-line__item_yellow"></div>
+        <div class="colored-line__item colored-line__item_orange"></div>
+        <div class="colored-line__item colored-line__item_violet"></div>
+    </div>
+
+    <div class="header-anon__content">
+
+        <div class="header-anon__logotype">
+            <a href="./change?newCulture=ru-RU&amp;currentUrl=https:%252F%252Fkundalik.com%252F">
+                <img src="https://static.kundalik.com/img/logotypes/uzlogotype.png" alt="Kundalik"/>
+            </a>
+        </div>
+
+        <div class="header-anon__menu-wrapper">
+            <div class="header-anon__menu">
+                
+<nav class="menu">
+    <ul class="menu__layout">
+            <li class="menu__layout_unit">
+                <a class="menu__item menu__item_border
+                   
+                   menu__item_no-left-padding
+                   "
+                   href="./change?newCulture=ru-RU&amp;currentUrl=https:%252F%252Fkundalik.com%252Fabout">&#x41E; &#x43A;&#x43E;&#x43C;&#x43F;&#x430;&#x43D;&#x438;&#x438;</a>
+            </li>
+            <li class="menu__layout_unit">
+                <a class="menu__item menu__item_border
+                   menu__item_active
+                   
+                   "
+                   href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures">&#x412;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;&#x441;&#x442;&#x438;</a>
+            </li>
+            <li class="menu__layout_unit">
+                <a class="menu__item menu__item_border
+                   
+                   
+                   "
+                   href="./change?newCulture=ru-RU&amp;currentUrl=https:%252F%252Fkundalik.com%252Fforpartners">&#x41F;&#x430;&#x440;&#x442;&#x43D;&#x451;&#x440;&#x430;&#x43C;</a>
+            </li>
+            <li class="menu__layout_unit">
+                <a class="menu__item menu__item_border
+                   
+                   
+                   menu__item_noborder menu__item_no-right-padding"
+                   href=https://kundalik.com/support>&#x41F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43A;&#x430;</a>
+            </li>
+    </ul>
+</nav>
+            </div>
+            <div class="header-anon__buttons">
+                    <div class="header-anon__localization-button">
+                        
+<div class="header-localization-select">
+    <div class="header-localization-select__info">
+        <div class="header-localization-select__info_row header-localization-select__info_row-content">&#x420;&#x443;&#x441;</div>
+        <div class="header-localization-select__info_row header-localization-select__tumbler"></div>
+    </div>
+    
+    
+
+<div class="dropdown-container dropdown-container_font-weight-bold dropdown-container_left-position-0 dropdown-container_no-specific-last-child ">
+
+<a href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures" title="&#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;" class="link link_dropdown-container-link link_dropdown-container-link_selected link_ " >
+    &#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;
+    
+</a>
+<a href="./change?newCulture=uz-Latn-UZ&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures" title="O&#x27;zbekcha" class="link link_dropdown-container-link link_ link_ " >
+    O&#x27;zbekcha
+    
+</a></div><script>require(['DropdownContainer/DropdownContainer'], function () { for(var i = 0, l = arguments.length; i < l; i += 1) { arguments[i](JSON.parse('\x7b\x22tumblerClass\x22\x3a\x22header-localization-select\x22,\x22activationClasses\x22\x3a\x5b\x22header-localization-select__info\x22,\x22dropdown-container\x22\x5d\x7d')); } });</script>
+</div>
+                    </div>
+                <div class="header-anon__button">
+                    
+<a href="https://login.kundalik.com/login" title="&#x412;&#x43E;&#x439;&#x442;&#x438;" class="button button_blue button_padding-20    " onclick="" 
+   data-category="" data-action="" data-target="">
+    &#x412;&#x43E;&#x439;&#x442;&#x438;
+</a>
+                </div>
+                    <div class="header-anon__button">
+                        
+<a href="https://login.kundalik.com/join/role" title="&#x41F;&#x43E;&#x434;&#x43A;&#x43B;&#x44E;&#x447;&#x438;&#x442;&#x44C; &#x41E;&#x41E;" class="button button_green button_padding-20 button_margin-left-20    " onclick="" 
+   data-category="" data-action="" data-target="">
+    &#x41F;&#x43E;&#x434;&#x43A;&#x43B;&#x44E;&#x447;&#x438;&#x442;&#x44C; &#x41E;&#x41E;
+</a>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+<div class="main main_top-30 ">
+    <div class="container">
+    <div class="row">
+        <div class="col-md-24 col-xs-24">
+            
+            <div class="article-area article-area_padding-bottom-80 ">
+    
+    
+<div class="features">
+    <div class="row">
+        <div class="col-md-24 col-xs-24">
+            <h1 class="h1">&#x412;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;&#x441;&#x442;&#x438;</h1>
+        </div>
+    </div>
+    <div class="tabs">
+    <div class="row">
+        <div class="col-md-24 col-xs-24">
+            <nav class="tabs-nav">
+                
+                    <a class="tabs-nav__item tabs-nav__item_first  col-md-6 col-xs-6"
+                       data-label="teachers"
+                       href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures#/teachers">&#x41F;&#x440;&#x435;&#x43F;&#x43E;&#x434;&#x430;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44F;&#x43C;</a>
+                    <a class="tabs-nav__item   col-md-6 col-xs-6"
+                       data-label="parents"
+                       href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures#/parents">&#x420;&#x43E;&#x434;&#x438;&#x442;&#x435;&#x43B;&#x44F;&#x43C;</a>
+                    <a class="tabs-nav__item   col-md-6 col-xs-6"
+                       data-label="students"
+                       href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures#/students">&#x423;&#x447;&#x430;&#x449;&#x438;&#x43C;&#x441;&#x44F;</a>
+                    <a class="tabs-nav__item  tabs-nav__item_last col-md-6 col-xs-6"
+                       data-label="governments"
+                       href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures#/governments">&#x413;&#x43E;&#x441;&#x43E;&#x440;&#x433;&#x430;&#x43D;&#x430;&#x43C;</a>
+            </nav>
+        </div>
+    </div>
+
+</div>
+<script>require(['Tabs/Tabs'], function () { for(var i = 0, l = arguments.length; i < l; i += 1) { arguments[i](JSON.parse('\x5b\x7b\x22label\x22\x3a\x22teachers\x22,\x22href\x22\x3a\x22\x23\x2fteachers\x22,\x22title\x22\x3a\x22\u041f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044f\u043c\x22,\x22isFirst\x22\x3atrue,\x22isLast\x22\x3afalse,\x22sub\x22\x3anull\x7d,\x7b\x22label\x22\x3a\x22parents\x22,\x22href\x22\x3a\x22\x23\x2fparents\x22,\x22title\x22\x3a\x22\u0420\u043e\u0434\u0438\u0442\u0435\u043b\u044f\u043c\x22,\x22isFirst\x22\x3afalse,\x22isLast\x22\x3afalse,\x22sub\x22\x3anull\x7d,\x7b\x22label\x22\x3a\x22students\x22,\x22href\x22\x3a\x22\x23\x2fstudents\x22,\x22title\x22\x3a\x22\u0423\u0447\u0430\u0449\u0438\u043c\u0441\u044f\x22,\x22isFirst\x22\x3afalse,\x22isLast\x22\x3afalse,\x22sub\x22\x3anull\x7d,\x7b\x22label\x22\x3a\x22governments\x22,\x22href\x22\x3a\x22\x23\x2fgovernments\x22,\x22title\x22\x3a\x22\u0413\u043e\u0441\u043e\u0440\u0433\u0430\u043d\u0430\u043c\x22,\x22isFirst\x22\x3afalse,\x22isLast\x22\x3atrue,\x22sub\x22\x3anull\x7d\x5d')); } });</script>
+    <div class="row">
+        <div class="col-md-24 col-xs-24">
+                <div class="features__template" data-url="#/teachers">
+                    <div class="feature-list">
+            <div class="feature-list__item feature-list__item_gray">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image">
+                            <img src="https://static.kundalik.com/img/uz/features/teachers/schoolpage.png" alt="&#x421;&#x442;&#x440;&#x430;&#x43D;&#x438;&#x446;&#x430; &#x448;&#x43A;&#x43E;&#x43B;&#x44B;" />
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x421;&#x442;&#x440;&#x430;&#x43D;&#x438;&#x446;&#x430; &#x448;&#x43A;&#x43E;&#x43B;&#x44B;</div>
+                            Визитная карточка образовательной организации в Kundalik: лица администрации, контакты, новости, правовые и прочие документы, объявления, фотогалерея, форум. Возможна настройка публичности страницы школы и ее разделов.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class=" feature-list__item">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x420;&#x430;&#x441;&#x43F;&#x438;&#x441;&#x430;&#x43D;&#x438;&#x435; &#x438; &#x443;&#x440;&#x43E;&#x43A;&#x438;</div>
+                            Простой и понятный ввод расписания. Указывайте замены, переносы и отмены уроков. Просматривайте или распечатывайте расписание по классу на неделю, за весь отчётный период или сетку по всем учителям сразу. 
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image feature-list__item__image_right">
+                            <img src="https://static.kundalik.com/img/uz/features/teachers/schedule.png" alt="&#x420;&#x430;&#x441;&#x43F;&#x438;&#x441;&#x430;&#x43D;&#x438;&#x435; &#x438; &#x443;&#x440;&#x43E;&#x43A;&#x438;" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="feature-list__item feature-list__item_gray">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image">
+                            <img src="https://static.kundalik.com/img/uz/features/teachers/journal.png" alt="&#x42D;&#x43B;&#x435;&#x43A;&#x442;&#x440;&#x43E;&#x43D;&#x43D;&#x44B;&#x439; &#x436;&#x443;&#x440;&#x43D;&#x430;&#x43B;" />
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x42D;&#x43B;&#x435;&#x43A;&#x442;&#x440;&#x43E;&#x43D;&#x43D;&#x44B;&#x439; &#x436;&#x443;&#x440;&#x43D;&#x430;&#x43B;</div>
+                            Стандартный вид привычного бумажного журнала и ряд дополнительных представлений: журнал за день, журнал за неделю, страница урока. Администрация может выбрать системы оценивания и типы работ на уроках. Все представления журнала доступны в цветном и чёрно-белом вариантах. К любому уроку преподаватель может добавить комментарии и дополнительные материалы. 
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class=" feature-list__item">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x423;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x434;&#x43E;&#x43C;&#x430;&#x448;&#x43D;&#x438;&#x43C;&#x438; &#x437;&#x430;&#x434;&#x430;&#x43D;&#x438;&#x44F;&#x43C;&#x438;</div>
+                            Интерактивный модуль управления домашними заданиями позволяет выдавать их всему классу или отдельным ученикам, копировать задания для разных классов, добавлять к ним файлы и контролировать ход выполнения. 
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image feature-list__item__image_right">
+                            <img src="https://static.kundalik.com/img/uz/features/teachers/hometasks.png" alt="&#x423;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x434;&#x43E;&#x43C;&#x430;&#x448;&#x43D;&#x438;&#x43C;&#x438; &#x437;&#x430;&#x434;&#x430;&#x43D;&#x438;&#x44F;&#x43C;&#x438;" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="feature-list__item feature-list__item_gray">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image">
+                            <img src="https://static.kundalik.com/img/uz/features/teachers/reports.png" alt="&#x41E;&#x442;&#x447;&#x451;&#x442;&#x44B;" />
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x41E;&#x442;&#x447;&#x451;&#x442;&#x44B;</div>
+                            Полная статистика, включающая в себя как стандартные ведомости и отчёты образовательной организации, так и дополнительные. Отчёты в школе, которые раньше заполнялись вручную, теперь формируются автоматически. Все данные обновляются в режиме реального времени.
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div>
+                    <div class="row">
+                        <div class="col-md-push-6 col-md-12 col-xs-12">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="features__template" data-url="#/parents"><div class="feature-list">
+            <div class="feature-list__item feature-list__item_gray">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image">
+                            <img src="https://static.kundalik.com/img/uz/features/parents/journal.png" alt="&#x414;&#x43D;&#x435;&#x432;&#x43D;&#x438;&#x43A; &#x443;&#x447;&#x435;&#x43D;&#x438;&#x43A;&#x430;" />
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x414;&#x43D;&#x435;&#x432;&#x43D;&#x438;&#x43A; &#x443;&#x447;&#x435;&#x43D;&#x438;&#x43A;&#x430;</div>
+                            Электронный дневник - это доступ в режиме реального времени к любой учебной информации. Следите за изменениями в расписании, текущими и итоговыми достижениями вашего ребёнка.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class=" feature-list__item">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x414;&#x43E;&#x43C;&#x430;&#x448;&#x43D;&#x438;&#x435; &#x437;&#x430;&#x434;&#x430;&#x43D;&#x438;&#x44F;</div>
+                            Полезный инструмент для контроля и отслеживания выполнения домашних заданий вашего ребёнка.
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image feature-list__item__image_right">
+                            <img src="https://static.kundalik.com/img/uz/features/parents/homework.png" alt="&#x414;&#x43E;&#x43C;&#x430;&#x448;&#x43D;&#x438;&#x435; &#x437;&#x430;&#x434;&#x430;&#x43D;&#x438;&#x44F;" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="feature-list__item feature-list__item_gray">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image">
+                            <img src="https://static.kundalik.com/img/uz/features/parents/communication.png" alt="&#x41E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;" />
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x41E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;</div>
+                            Kundalik – это закрытая и современная среда для общения. Можно создавать тематические форумы, обмениваться фотографиями с мероприятий, связываться в удобное время с любым родителем или преподавателем.
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div></div>
+                <div class="features__template" data-url="#/students"><div class="feature-list">
+            <div class="feature-list__item feature-list__item_gray">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image">
+                            <img src="https://static.kundalik.com/img/uz/features/students/journal.png" alt="&#x414;&#x43D;&#x435;&#x432;&#x43D;&#x438;&#x43A;" />
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x414;&#x43D;&#x435;&#x432;&#x43D;&#x438;&#x43A;</div>
+                            Kundalik с легкостью решает задачи бумажного дневника и даже больше: расписание, домашние задания, все выставленные оценки, материалы, используемые в ходе уроков, средний балл, темы пройденных и будущих уроков, комментарии преподавателя.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class=" feature-list__item">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x41F;&#x43E;&#x440;&#x442;&#x444;&#x43E;&#x43B;&#x438;&#x43E;</div>
+                            Личную страницу в Kundalik легко превратить в портфолио и рассказать всем о своих достижениях. В этом тебе помогут: личный блог и твоя фантазия для создания и оформления заметок, файлы для личных материалов и оцифрованных грамот, дипломов, стена с новостями и многое другое... 
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image feature-list__item__image_right">
+                            <img src="https://static.kundalik.com/img/uz/features/students/portfolio.png" alt="&#x41F;&#x43E;&#x440;&#x442;&#x444;&#x43E;&#x43B;&#x438;&#x43E;" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="feature-list__item feature-list__item_gray">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image">
+                            <img src="https://static.kundalik.com/img/uz/features/students/communication.png" alt="&#x41E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;" />
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x41E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;</div>
+                            В Kundalik проще: общаться с учащимися других школ, создавать, вести самому или просто участвовать в тематических кружках твоей школы, обсуждать мероприятия и новости класса, делиться фотографиями школьной жизни.
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div></div>
+                <div class="features__template" data-url="#/governments"><div class="feature-list">
+            <div class="feature-list__item feature-list__item_gray">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image">
+                            <img src="https://static.kundalik.com/img/uz/features/government/stat.png" alt="&#x421;&#x431;&#x43E;&#x440; &#x441;&#x442;&#x430;&#x442;&#x438;&#x441;&#x442;&#x438;&#x43A;&#x438;" />
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x421;&#x431;&#x43E;&#x440; &#x441;&#x442;&#x430;&#x442;&#x438;&#x441;&#x442;&#x438;&#x43A;&#x438;</div>
+                            Получение ряда статистических отчётов по основным параметрам работы подведомственных организаций в режиме реального времени с возможностью выгрузки в Excel. 
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class=" feature-list__item">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x41F;&#x440;&#x435;&#x434;&#x441;&#x442;&#x430;&#x432;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x442;&#x432;&#x43E; &#x423;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x44F; &#x438;&#x43B;&#x438; &#x43E;&#x442;&#x434;&#x435;&#x43B;&#x430; &#x43E;&#x431;&#x440;&#x430;&#x437;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F;</div>
+                            Визитная карточка органа управления образованием: лица администрации, контакты, новости, правовые и другие публичные документы, структура подведомственных организаций.
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image feature-list__item__image_right">
+                            <img src="https://static.kundalik.com/img/uz/features/government/presentation.png" alt="&#x41F;&#x440;&#x435;&#x434;&#x441;&#x442;&#x430;&#x432;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x442;&#x432;&#x43E; &#x423;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x44F; &#x438;&#x43B;&#x438; &#x43E;&#x442;&#x434;&#x435;&#x43B;&#x430; &#x43E;&#x431;&#x440;&#x430;&#x437;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F;" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="feature-list__item feature-list__item_gray">
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__image">
+                            <img src="https://static.kundalik.com/img/uz/features/government/notifying.png" alt="&#x418;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x435;" />
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-xs-12">
+                        <div class="feature-list__item__text">
+                            <div class="feature-list__item__text__title">&#x418;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x435;</div>
+                            Массовая отправка личных сообщений в Kundalik с официальной информацией родителям, учащимся или только руководителям подведомственных организаций. Быстрый и удобный способ сообщить о важном документе или мероприятии в сфере образования. 
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div></div>
+        </div>
+    </div>
+</div><script>require(['Features/Features'], function () { for(var i = 0, l = arguments.length; i < l; i += 1) { arguments[i](JSON.parse('null')); } });</script>
+</div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<footer class="footer">
+    <div class="footer__menu">
+        <div>
+            <div class="footer__menu__links">
+                    <div class="footer__column_25">
+                            <div class="footer__menu__links__title">&#x41E; &#x43A;&#x43E;&#x43C;&#x43F;&#x430;&#x43D;&#x438;&#x438;</div>
+                            <ul class="footer__menu__links__layout">
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=ru-RU&amp;currentUrl=https:%252F%252Fkundalik.com%252Fabout" class="footer__menu__links__item">&#x41E; &#x43D;&#x430;&#x441;</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=uz-Latn-UZ&amp;currentUrl=https:%252F%252Fkundalik.com%252Fnews" class="footer__menu__links__item">&#x41D;&#x43E;&#x432;&#x43E;&#x441;&#x442;&#x438;</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=uz-Latn-UZ&amp;currentUrl=https:%252F%252Fkundalik.com%252Fcontacts" class="footer__menu__links__item">&#x41A;&#x43E;&#x43D;&#x442;&#x430;&#x43A;&#x442;&#x44B;</a>
+                                    </li>
+                            </ul>
+                    </div>
+                    <div class="footer__column_25">
+                            <div class="footer__menu__links__title">&#x412;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;&#x441;&#x442;&#x438;</div>
+                            <ul class="footer__menu__links__layout">
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures#/teachers" class="footer__menu__links__item">&#x41F;&#x440;&#x435;&#x43F;&#x43E;&#x434;&#x430;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44F;&#x43C;</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures#/parents" class="footer__menu__links__item">&#x420;&#x43E;&#x434;&#x438;&#x442;&#x435;&#x43B;&#x44F;&#x43C;</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures#/students" class="footer__menu__links__item">&#x423;&#x447;&#x430;&#x449;&#x438;&#x43C;&#x441;&#x44F;</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures#/governments" class="footer__menu__links__item">&#x413;&#x43E;&#x441;&#x43E;&#x440;&#x433;&#x430;&#x43D;&#x430;&#x43C;</a>
+                                    </li>
+                            </ul>
+                    </div>
+                    <div class="footer__column_25">
+                            <div class="footer__menu__links__title">&#x41F;&#x430;&#x440;&#x442;&#x43D;&#x451;&#x440;&#x430;&#x43C;</div>
+                            <ul class="footer__menu__links__layout">
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=ru-RU&amp;currentUrl=https:%252F%252Fkundalik.com%252Fforpartners" class="footer__menu__links__item">&#x41F;&#x430;&#x440;&#x442;&#x43D;&#x451;&#x440;&#x441;&#x43A;&#x438;&#x435; &#x43F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x44B;</a>
+                                    </li>
+                            </ul>
+                    </div>
+                <div class="footer__column_25">
+                    <div class="footer__menu__links__last-column-wrapper">
+                            <div class="footer__menu__links__title footer__menu__links__title_no-margin-top">
+                                &#x41F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43A;&#x430;
+                            </div>
+                            <div class="footer__menu__links__support">
+                                    <a href="https://help.kundalik.com" class="footer__menu__links__support__link">&#x41F;&#x43E;&#x440;&#x442;&#x430;&#x43B; &#x441;&#x43B;&#x443;&#x436;&#x431;&#x44B; &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43A;&#x438;</a>
+                            </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div>
+                <div class="footer__menu__buttons">
+                        <div class="footer__column_25">
+                            
+<div class="sociallinks">
+        <a class="sociallinks__button sociallinks__button_facebook " href="https://www.facebook.com/KundalikUzbekistan" target="_blank" title="Kundalik &#x432; Facebook"></a>
+        <a class="sociallinks__button sociallinks__button_instagram " href="https://instagram.com/kundalikuzbekistan" target="_blank" title="Kundalik &#x432; Instagram"></a>
+        <a class="sociallinks__button sociallinks__button_telegram " href="https://t.me/kundalik_com" target="_blank" title="Kundalik &#x432; Telegram"></a>
+        <a class="sociallinks__button sociallinks__button_youtube " href="https://www.youtube.com/channel/UCXEyWtrq2E7ZQ3D8tiOmCZg" target="_blank" title="Kundalik &#x43D;&#x430; YouTube"></a>
+        <a class="sociallinks__button sociallinks__button_mover " href="https://mover.uz/channel/kundalikcom/" target="_blank" title="Kundalik &#x43D;&#x430; Mover"></a>
+</div>
+                        </div>
+                        <div class="footer__column_25 footer__join">
+                            
+<a href="https://login.kundalik.com/join/role" title="&#x41F;&#x43E;&#x434;&#x43A;&#x43B;&#x44E;&#x447;&#x438;&#x442;&#x44C; &#x41E;&#x41E;" class="button button_green button_full-width    " onclick="" 
+   data-category="" data-action="" data-target="">
+    &#x41F;&#x43E;&#x434;&#x43A;&#x43B;&#x44E;&#x447;&#x438;&#x442;&#x44C; &#x41E;&#x41E;
+</a>
+                        </div>
+                </div>
+            </div>
+    </div>
+    <div class="footer__copyright">
+        <div class="footer__copyright-content">
+            
+            <div class="footer__copyright-item">
+                <div class="footer__copyright__terms">
+
+                        <a href="./change?newCulture=uz-Latn-UZ&amp;currentUrl=https:%252F%252Fkundalik.com%252Fagreements%252Fterms" class="footer__copyright__terms__link">&#x41F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x43E;&#x435; &#x441;&#x43E;&#x433;&#x43B;&#x430;&#x448;&#x435;&#x43D;&#x438;&#x435;</a>
+                </div>
+            </div>
+            <div class="footer__copyright-item">
+                <div class="footer__copyright__label">&#xA9; 2023 &#x41E;&#x41E;&#x41E; &#xAB;Kundalik&#xBB;</div>
+            </div>
+        </div>
+    </div>
+
+</footer>
+<script>require(['Footer/Footer'], function () { for(var i = 0, l = arguments.length; i < l; i += 1) { arguments[i](JSON.parse('null')); } });</script>
+
+    
+<script type="text/javascript">
+    require(['yandexMetrika/yandexMetrikaCounter']);
+    require(['analytics/commonYaMetrika']);
+</script>
+<noscript>
+    <div>
+            <img src="https://mc.yandex.ru/watch/52725535" style="position: absolute; left: -9999px;" alt="" />
+    </div>
+</noscript>
+        <script type="text/javascript">
+            require(['ab/ab'], function (ab) {
+                window.onload = function () {
+                    if (!window['yaCounter' + dnevnik.settings.yandexMetrikaId]) {
+                        console.debug('Yandex.Metrika not loaded!');
+                   }
+   
+                    ab.init({
+                        subdomain: '',
+                       group: 'groupA'
+                    });
+   
+                };
+            });
+        </script>
+    
+
+</body>
+</html>

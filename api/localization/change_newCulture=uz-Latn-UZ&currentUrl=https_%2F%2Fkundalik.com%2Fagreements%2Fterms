@@ -1,0 +1,316 @@
+
+<!DOCTYPE html>
+<html>
+<head lang="ru">
+    <meta name="google" value="notranslate"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="icon" href="https://static.kundalik.com/img/icons/favicon_Uz.ico" sizes="16x16 24x24 32x32 48x48 64x64" type="image/x-icon"/>
+    <link rel="shortcut icon" href="https://static.kundalik.com/img/icons/favicon_Uz.ico" sizes="16x16 24x24 32x32 48x48 64x64" type="image/x-icon"/>
+
+    <!-- non-retina iPhone pre iOS 7 -->
+    <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/57x57.png" sizes="57x57"/>
+    <!-- non-retina iPad pre iOS 7 -->
+    <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/72x72.png" sizes="72x72"/>
+    <!-- non-retina iPad iOS 7 -->
+    <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/76x76.png" sizes="76x76"/>
+    <!-- retina iPhone pre iOS 7 -->
+    <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/114x114.png" sizes="114x114"/>
+    <!-- retina iPhone iOS 7 -->
+    <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/120x120.png" sizes="120x120"/>
+    <!-- retina iPad pre iOS 7 -->
+    <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/144x144.png" sizes="144x144"/>
+    <!-- retina iPad iOS 7 -->
+    <link rel="apple-touch-icon" href="https://static.kundalik.com/img/icons/favicons_Uz/apple/152x152.png" sizes="152x152"/>
+
+    <!-- Windows 8 tile -->
+    <meta name="msapplication-TileImage" content="https://static.kundalik.com/img/icons/favicons_Uz/microsoft/144x144.png"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="application-name" content="Foydalanuvchi shartnomasi"/>
+
+    <!-- IE11 tiles -->
+    <meta name="msapplication-square70x70logo" content="https://static.kundalik.com/img/icons/favicons_Uz/microsoft/70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="https://static.kundalik.com/img/icons/favicons_Uz/microsoft/150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="https://static.kundalik.com/img/icons/favicons_Uz/microsoft/310x150.png"/>
+    <meta name="msapplication-square310x310logo" content="https://static.kundalik.com/img/icons/favicons_Uz/microsoft/310x310.png.png" />
+    
+
+    <title>Foydalanuvchi shartnomasi</title>
+
+            <link rel="stylesheet" href="https://static.kundalik.com/assets/styles/main.min.3a60af39.css?v=3a60af39" media="all" type="text/css" />
+
+    <link rel="stylesheet" href="https://static.kundalik.com/styles/main/common.css?v=58470ee9" media="all" type="text/css"/>
+    <link rel="stylesheet" href="https://static.kundalik.com/blocks/blocks.css?v=f2d396fc" media="all" type="text/css" />
+
+
+<link rel="stylesheet" href="https://static.kundalik.com/client/notifications.css?v=836810af" type="text/css" />
+
+    <script type="text/javascript">
+    var dnevnik = {"urls":{"domain":"kundalik.com","taskStateUrl":"https://kundalik.com/user/TaskStateHandler.ashx","moderate":null,"whiteList":["2gis.ru","adfox.ru","aliexpress.com","apple.com","avito.ru","booking.com","csdnevnik.ru","dnevnik.ru","dnevnik.ru","facebook.com","fotostrana.ru","foxford.ru","gismeteo.ru","globallab.org","google.com","google.ru","gosuslugi.ru","hh.ru","instagram.com","instagram.com","kinopoisk.ru","lego.com","lenta.ru","letovo.ru","livejournal.com","magnit.ru","magnit-info.ru","magnitznaniy.ru","mail.ru","microsoft.com","mosreg.ru","mosregtest.ru","office.com","office365.com","ok.ru","onenote.com","pikabu.ru","rambler.ru","rbc.ru","research.net","ria.ru","sberbank.ru","sharepoint.com","surveymonkey.com","surveymonkey.ru","twitch.tv","twitter.com","vk.com","wikipedia.org","yadi.sk","yaklass.ru","yandex.ru","youtu.be","youtube.com","kundalik.com","utube.uz","imumk.ru","https://uz.mfactory.online/","kundalik.analyticsapp.uz","kundalik.ozlashtah.uz"],"userCounters":"https://kundalik.com/counters","emailSettings":"https://kundalik.com/user/settings.aspx?view=email","smilesSpriteUrl":"https://static.kundalik.com/images/sprites/emojione.sprites.svg","tinyMceBaseUrl":"https://static.kundalik.com/assets/scripts/vendors/tinymce","gaAutoLinkUrls":null,"adblockDummyUrl":""},"settings":{"googleAnalytics":{"defaultId":"","appsId":"","adId":"","contactId":"","eventsId":"","groupsId":"","loginId":"","messengerId":"","networksId":"","childrenId":"","peopleId":"","schoolsId":"","wikiId":"","mainId":"","appSubscriptionId":"","limitedCounterId":"UA-106329441-1","limitedCounterSampleRate":1},"yandexMetrikaIds":["52725535"],"yandexMetrikaСlickmapEnabled":true,"enableAdFoxZeroPixel":true,"yandexMetrikaId":"52725535","environmentPrefix":"Uz","yandexMetrikaWebvisorEnabled":false},"fileUploadSettings":{"stateUrl":"https://content.kundalik.com/gettaskstatus","resultUrl":"https://content.kundalik.com/getresult","deleteFileUrl":"https://content.kundalik.com/delete","deleteFolderUrl":"https://content.kundalik.com/deletefolder","defaultFileSizeLimit":"2147483648"},"user":null,"auth":{"isAuthenticated":false,"updateInterval":600000,"loginUrl":"https://login.kundalik.com/auth","masterLoginUrl":null},"visitParams":{"__RedesignAbGroup2":"groupA"},"localizationSchoolType":null};
+</script>
+
+            <script type="text/javascript" src="https://static.kundalik.com/assets/scripts/modules/redesign.min.200c4c4b.js?v=200c4c4b"></script>
+    <script type="text/javascript" src="https://static.kundalik.com/assets/scripts/vendors/requirejs/require-2.1.6.js?v=ef8e5d03"></script>
+    <script type="text/javascript">
+        require.config({
+            baseUrl: "https://static.kundalik.com/assets/scripts/modules",
+            urlArgs: "v=47e49393",
+        });
+    </script>
+            <script type="text/javascript" src="https://static.kundalik.com/assets/scripts/modules/main-redesign.min.a8e15e2a.js?v=a8e15e2a"></script>
+    <script type="text/javascript" src="https://static.kundalik.com/blocks/blocks.js?v=ecc289ee"></script>
+    <script type="text/javascript" src="https://static.kundalik.com/javascripts/local/uz-Latn.js?v=0320e479"></script>
+
+</head>
+<body class="">
+    <script>
+        window.environmentPrefix = "uz";
+    </script>
+
+    
+<header class="header-anon" id="header-anon">
+
+    <div class="colored-line colored-line_uz">
+        <div class="colored-line__item colored-line__item_blue"></div>
+        <div class="colored-line__item colored-line__item_green"></div>
+        <div class="colored-line__item colored-line__item_yellow"></div>
+        <div class="colored-line__item colored-line__item_orange"></div>
+        <div class="colored-line__item colored-line__item_violet"></div>
+    </div>
+
+    <div class="header-anon__content">
+
+        <div class="header-anon__logotype">
+            <a href="./change?newCulture=ru-RU&amp;currentUrl=https:%252F%252Fkundalik.com%252F">
+                <img src="https://static.kundalik.com/img/logotypes/uzlogotype.png" alt="Kundalik"/>
+            </a>
+        </div>
+
+        <div class="header-anon__menu-wrapper">
+            <div class="header-anon__menu">
+                <nav class="menu">
+    <ul class="menu__layout">
+            <li class="menu__layout_unit">
+                <a class="menu__item menu__item_border
+                   
+                   menu__item_no-left-padding
+                   "
+                   href="./change?newCulture=ru-RU&amp;currentUrl=https:%252F%252Fkundalik.com%252Fabout">Tashkilot</a>
+            </li>
+            <li class="menu__layout_unit">
+                <a class="menu__item menu__item_border
+                   
+                   
+                   "
+                   href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures">Imkoniyatlar</a>
+            </li>
+            <li class="menu__layout_unit">
+                <a class="menu__item menu__item_border
+                   
+                   
+                   "
+                   href="./change?newCulture=ru-RU&amp;currentUrl=https:%252F%252Fkundalik.com%252Fforpartners">Hamkorlarga</a>
+            </li>
+            <li class="menu__layout_unit">
+                <a class="menu__item menu__item_border
+                   
+                   
+                   menu__item_noborder menu__item_no-right-padding"
+                   href=https://kundalik.com/support>Yordam</a>
+            </li>
+    </ul>
+</nav>
+            </div>
+            <div class="header-anon__buttons">
+                    <div class="header-anon__localization-button">
+                        
+<div class="header-localization-select">
+    <div class="header-localization-select__info">
+        <div class="header-localization-select__info_row header-localization-select__info_row-content">O&#39;zb</div>
+        <div class="header-localization-select__info_row header-localization-select__tumbler"></div>
+    </div>
+    
+    
+<div class="dropdown-container dropdown-container_font-weight-bold dropdown-container_left-position-0 dropdown-container_no-specific-last-child ">
+<a href="./change?newCulture=uz-Latn-UZ&amp;currentUrl=https:%252F%252Fkundalik.com%252Fagreements%252Fterms" title="O&#39;zbekcha" class="link link_dropdown-container-link link_dropdown-container-link_selected link_ " >
+    O&#39;zbekcha
+    
+</a><a href="./change?newCulture=ru-RU&amp;currentUrl=https:%252F%252Fkundalik.com%252Fagreements%252Fterms" title="Русский" class="link link_dropdown-container-link link_ link_ " >
+    Русский
+    
+</a></div><script>require(['DropdownContainer/DropdownContainer'], function () { for(var i = 0, l = arguments.length; i < l; i += 1) { arguments[i](JSON.parse('\x7b\x22tumblerClass\x22\x3a\x22header-localization-select\x22,\x22activationClasses\x22\x3a\x5b\x22header-localization-select__info\x22,\x22dropdown-container\x22\x5d\x7d')); } });</script>
+</div>
+                    </div>
+                <div class="header-anon__button">
+                    <a href="https://login.kundalik.com/login" title="Kirish" class="button button_blue button_padding-20    " onclick="" 
+   data-category="" data-action="" data-target="">
+    Kirish
+</a>
+                </div>
+                    <div class="header-anon__button">
+                        <a href="https://login.kundalik.com/join/role" title="Tashkilotni ulash" class="button button_green button_padding-20 button_margin-left-20    " onclick="" 
+   data-category="" data-action="" data-target="">
+    Tashkilotni ulash
+</a>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+<div class="main main_top-30 ">
+    <div class="container">
+    <div class="row">
+        <div class="col-md-24 col-xs-24">
+            
+            <div class="article-area">
+    <div><h1 class="h1">Foydalanuvchi shartnomasi</h1><h3 class="h3">1-bo'lim. Atamalar</h3><p class="paragraph">1.1. <strong class="strong">«Kundalik» avtomatlashtirilgan axborot tizimi (kelgusida - «Tizim»)</strong> - elektron hujjat aylanishi imkoniyatlarini va o'quv jarayonining ishtirokchilari o'rtasida ijtimoiy tarmoqlar vositalarini birlashtiradigan O'zbekiston Respublikasi o'rta ta'lim muassasalari uchun yopiq axborot tizimi.</p><p class="paragraph">1.2. <strong class="strong">Tizimdan foydalanish maqsadi O'zbekiston Respublikasida ta'limni boshqaruvchi mahalliy hokimiyat organlari va O'zbekiston Respublikasidagi ta'lim muassasalari faoliyatini boshqarishning funktsiyalari va jarayonlarini avtomatlashtirish orqali O'zbekiston Respublikasining o'rta ta'lim muassasalari o'quvchilarining ta'lim sifatini oshirish va ularning o'quv jarayonida erishgan yutuqlarini hisobga olish tizimini takomillashtirishdan iborat.</strong></p><p class="paragraph">1.3. <strong class="strong">Administratsiya (Administratsiya)</strong> - «Kundalik» mas'uliyati cheklangan jamiyati, quyidagi manzilda joylashgan: O'zbekiston, Toshkent, Yakkasaroy tumani, Abdulla Qahhor ko'chasi, 2a-uy. Administratsiya ushbu Nizomga va/yoki uning ilovalariga o'zgartishlar kiritish orqali Administratsiya manzilini o'zgartirish yoki Administratsiya nomidan ish yuritadigan shaxsning o'zgarishi to'g'risida foydalanuvchiga xabar beradi.</p><p class="paragraph">1.4. <strong class="strong">Tizimga ulanish </strong> - Tizimning mijozlar bo'limiga (Web-interfeysiga) Internet orqali avtorizatsiya qilingan foydalanuvchilarga ruxsat berish. Tizimga ulanish uchun iqtibos: <a class="link" href="https://www.kundalik.com/">https://www.kundalik.com/</a>.</p><p class="paragraph">1.5. <strong class="strong">Foydalanuvchi</strong> - Tizimda Profilni login va parol orqali ro'yxatdan o'tkazgan, shuningdek ushbu Shartnoma shartlariga i) o'z nomidan, ii) ota-onasining/qonuniy vakilining roziligini olib o'z nomidan yoki iii) voyaga yetmaganning manfaati uchun ota-onasining va/yoki qonuniy vakilining roziligini olgan jismoniy shaxs.</p><p class="paragraph">1.6. <strong class="strong">Profil</strong> - foydalanuvchi haqida ma'lumotlar mavjud bo'lgan va tizim xizmatlari uchun avtorizatsiya qilingan huquqlarga ega bo'lgan foydalanuvchi qayd yozuvi. Tizimda quyidagi profillar nazarda tutilgan: O'zbekiston Respublikasi Xalq ta'limi vazirligining xodimi, O'zbekiston Respublikasi Xalq ta'limi boshqarmasi xodimi, O'zbekiston Respublikasida xalq ta'limi boshqarmasi xodimi, O'zbekiston Respublikasidagi ta'lim muassasasi xodimi, O'zbekiston Respublikasidagi ta'lim muassasasi ta'lim oluvchisi, O'zbekiston Respublikasidagi ta'lim muassasasi ta'lim oluvchisining ota-onasi (qonuniy vakili).</p><p class="paragraph">1.7. <strong class="strong">Login va vaqtinchalik parol</strong> - Tizimga ro'yxatdan o'tish va birinchi avtorizatsiyalangan ulanishga ruxsat beruvchi qat'iyan individual avtomatik shakllanuvchi foydalanuvchini nomi (login) va vaqtinchalik paroli.</p><p class="paragraph">1.8. <strong class="strong">Foydalanuvchi nomi (login)</strong> - Tizimning boshqa foydalanuvchilari orasida har bir foydalanuvchini alohida ajratib turuvchi (identifikatsiyalovchi) belgilar ketma-ketligi.</p><p class="paragraph">1.9. <strong class="strong">Parol</strong> - tizimda faqat shifrlangan shaklda saqlangan va foydalanuvchi tekshiruvi uchun foydalanuvchi nomi (login) bilan birgalikda ishlatiladigan, faqatgina foydalanuvchiga ma'lum bo'lgan belgilar ketma-ketligi.</p><p class="paragraph">1.10. <strong class="strong">Autentifikatsiya</strong> - Foydalanuvchining nomi (login) va Paroli orqali amalga oshirilgan, tizimga foydalanuvchining masofadan kirish huquqining sertifikatlanishi.</p><p class="paragraph">1.11. <strong class="strong">Vakolatli ruxsat</strong> - muvaffaqiyatli autentifikatsiyada tizimga kirish imkoni.</p><p class="paragraph">1.12. <strong class="strong">Xizmatlar (pullik va bepul)</strong> - Tizimning funktsional imkoniyatlarini amalga oshirish va ushbu Shartnomaga muvofiq Tizimning ishlash natijalaridan foydalanish uchun Tizim faoliyati doirasida foydalanuvchi tomonidan taqdim etiladigan mahsulotlar va xizmatlar.
+        <ol type="a"><li>Bеpul xizmatlar:
+            <ul type="disc"><li>“Muloqot” mеnyusi bo‘limidagi “ta’lim muassasasi to‘g‘risida umumiy ma’lumotlar” va “muloqot” “Kundalik” AAT sahifalari;</li><li>«Profil \Sozlamalar» bo‘limidagi «Kundalik» AAT sahifasi;</li><li>rеklama-axborot xizmatlari;</li><li>ta’lim muassasalari xodimlari uchun – “Ta’lim muassasasi xodimi” foydalanuvchilik roli uchun ochiq bo‘lgan «Kundalik» AAT ning barcha sahifalari;</li></ul></li><li>Pullik xizmatlar – to’lov amalga oshirilganidan so’ng 12 oy mobaynida, ota-onalar va o‘quvchilarga o‘quvchining o‘zlashtirishini, darslar jadvalini, uy vazifasini, davomatini shakllantirish va kuzatish huquqini bеradigan, 1 o‘quvchi va uning ota-onasi va (yoki) qonuniy vakillari uchun elеktron kundalikka (web-intеrfеysda) kirish.</li></ol>
+        Qo‘shimcha pullik xizmatlarni taqdim etish tartibi va shartlari (ushbu shartnomada ko‘rsatilmagan) muayyan bir xizmatni ko‘rsatish bo‘yicha alohida kеlishuvlar bilan bеlgilanadi va mazkur shartnomani qabul qilish qo‘shimcha pullik xizmatlarni ulash uchun asos bo‘lib hisoblanmaydi.
+      </p><p class="paragraph">1.13. <strong class="strong">Tizimdagi Foydalanuvchi kabineti</strong> - Tizimning o'zaro bog'liq funktsiyalari, muayyan Muassasaning ichki axborotini va ta'lim maydonini yaratishga imkon beruvchi elektron ta'lim vositalarini, ta'lim jarayonini va ijtimoiy tarmoqlarni qo'llab-quvvatlashni ta'minlaydi. Foydalanuvchi kabineti bepul taqdim etiladi va foydalanuvchi tomonidan har qanday pulli xizmatni sotib olishiga bog'liq emas.</p><p class="paragraph">1.14. <strong class="strong">Administrator</strong> - Foydalanuvchi Kabinetini boshqarishga va axborotni kiritish uchun mutlaq huquqlarga ega bo'lgan muayyan muassasaning to'liq kun ishlovchi xodimi bo'lgan jismoniy shaxs.</p><p class="paragraph">1.15. <strong class="strong">Muassasa</strong> - tashkiliy-huquqiy shaklidan qat'iy nazar asosiy maqsadi ta'lim faoliyati bo'lgan O'zbekiston Respublikasi ta'lim muassasalari, shuningdek, ta'lim sohasidagi boshqaruv vazifalarini bajaruvchi mahalliy ijro etuvchi organlari. Ushbu Shartnoma maqsadlari uchun Muassasalar qatoriga quyidagilar kiritiladi:
+        <ul><li>O'zbekiston Respublikasi Xalq ta'limi vazirligi;</li><li>ta'lim sohasidagi boshqaruvni amalga oshiruvchi viloyatning mahalliy ijro organlari;</li><li>respublika ahamiyatiga ega bo'lgan va poytaxtdagi ta'lim sohasidagi boshqaruvni amalga oshiruvchi mahalliy ijro organlar;</li><li>tumanlar va shaharlardagi tumanlarning mahalliy ijro organlari;</li><li>boshqa davlat hokimiyati organlari va ta'lim sohasi masalalari bilan shug'ullanuvchi O'zbekiston Respublikasi qonun hujjatlarida belgilangan tartibda (mas'uliyatga) muvofiq tatbiq etilgan taqdirda mahalliy o'zini o'zi boshqarish organlari;</li><li>O'zbekiston Respublikasidagi ta'lim muassasalari.</li></ul></p><p class="paragraph">1.16. <strong class="strong">Axborot</strong> - Institut xodimlari tomonidan tizimga kiritilgan ma'lumotlar, jumladan, tasdiqlangan elektron shakllar va ta'lim jarayonini ta'minlash uchun zarur bo'lgan statistika va/yoki hisobotlarning tasdiqlangan shakllari bo'yicha, muayyan muassasaning axborot va ta'lim makonini yaratish.</p><p class="paragraph">1.17. <strong class="strong">Shartnoma</strong> - Administratsiya tomonidan Tizimga kirish huquqini berish uchun va Asosiy tizim xizmatlarga ega bo'lish uchun foydalanuvchining imkoniyatlari va shartlari, cheklovlar, Foydalanuvchi tomonidan Tizimdan foydalanish shartlari, Tizim va Foydalanuvchi tomonidan Tizimdan foydalanishni to'xtatib turish va tugatish shartlari, Tomonlarning javobgarligi, Tizimdan foydalanish bilan bog'liq tomonlarning boshqa munosabatlari bilan bog'liq barcha zarur va mavjud shartlarni o'z ichiga olgan ushbu Shartnoma matni va uning ilovalari. Tizimdan foydalanuvchilarning foydalanishiga, shuningdek, asosiy tizim xizmatlarini qabul qilib olishlari uchun mazkur Shartnoma shartlariga rioya etish talab etiladi.</p><p class="paragraph">1.18. <strong class="strong">Mijozlarni konsultativ va texnik qo'llab-quvvatlash xizmati</strong> - Tizim bilan ishlashning o'ziga xos jihatlari bo'yicha har qanday muassasadan Tizim foydalanuvchilariga konsultatsiya xizmatlarini ko'rsatuvchi, shuningdek tizim ishida xatolar paydo bo'lgan taqdirda ularni tezda bartaraf etish Tizim Administratsiyasi xizmati.</p><h3 class="h3">2-bo'lim. Umumiy holat</h3><p class="paragraph">2.1. Ushbu Foydalanish Shartlari Tizimdan foydalanishning maqsadlaridan qat'iy nazar, Tizimning barcha foydalanuvchilari uchun qo'llaniladi va O'zbekiston Respublikasi Fuqarolik kodeksining 369-moddasi qoidalariga muvofiq oshkora bitim tuzish taklifini taqdim qiladi. Foydalanuvchi foydalanuvchi nomi (login) va parol kelishuvi yordamida Tizimga kirgan vaqtdan boshlab, unga nisbatan Foydalanuvchi shartnomasi qo'llaniladi. O'zbekiston Respublikasi Fuqarolik Kodeksining 370-moddasiga muvofiq “Ro'yxatdan o'tish” tugmachasini bosish, shuningdek Tizimdan foydalanish, ushbu moddaga muvofiq Foydalanuvchi bilan ushbu Shartnomaga to'liq va so'zsiz roziligini bildiradi (oshkoralik bitimi shartlarini qabul qilish). Foydalanuvchi bilan kelishmovchilik yuzaga kelganda, foydalanuvchi Tizim xizmatlarini ko'rishni yoki undan foydalanishni to'xtatishga, shuningdek Tizimda joylashtirilgan barcha materiallarni o'chirib tashlashga majbur bo'ladi.</p><p class="paragraph">2.2. Foydalanuvchi shartnomasining hozirgi nashri URL - manzilida mavjud: <a class="link" href="./change?newCulture=uz-Latn-UZ&amp;currentUrl=https:%252F%252Fkundalik.com%252Fagreements%252Fterms">https://kundalik.com/agreements/terms</a>. Administratsiya ushbu Foydalanuvchi shartnomasini istalgan vaqtda oldindan yoki keyin ogohlantirmasdan o'zgartirish yoki to'ldirish huquqini o'zida saqlab qoladi. Foydalanuvchi mustaqil ravishda Shartnomadagi o'zgarishlarni kuzatib boradi va Foydalanuvchi shartnomasining joriy nashri bilan tanishadi. Foydalanuvchi tomonidan ushbu Shartnomaga o'zgartirishlar va/yoki qo'shimchalar kiritilgandan so'ng tizimni doimiy ravishda ishlatish, bunday o'zgartirishlar va/yoki qo'shimchalarni Foydalanuvchi tomonidan qabul qilinganligi va roziligini anglatadi.</p><p class="paragraph">2.3. Foydalanuvchiga qo‘shimcha pullik xizmatlarning, ya’ni Foydalanuvchining talabi bo‘yicha pullik asoslarda Ma’muriyat tomonidan Tizimning aynan maxsus qo‘shimcha imkoniyatlarining  taqdim etilishi alohida pullik xizmatni taqdim etish uchun pullik xizmatlarni taqdim etish tartibi to‘g‘risidagi Shartnoma va\yoki kеlishuvlar bilan tartibga  solinadi. Pullik qo‘shimcha xizmatlar Foydalanuvchining Tizimda ishtirok etishining zaruriy sharti hisoblanmaydi va Foydalanuvchining istagiga binoan taqdim etiladi.</p><p class="paragraph">2.4. Tizimni rivojlantirish maqsadida Administratsiya istalgan vaqtda funktsiyalari va narxlari bo'yicha farq qiladigan Tizim xizmatlariga o'zgartirishlar kiritish huquqiga ega. Bunday xizmatlar cheklangan muddatga taqdim etiladi va Administratsiya tomonidan tasodifiy tanlangan Foydalanuvchilarning cheklangan auditoriyasi uchun mavjud bo'lishi mumkin. Bunday funktsiyalar va xizmatlardan foydalana oladigan Foydalanuvchi ulardan foydalanmaslik huquqiga ega.</p><h3 class="h3">3-bo'lim. Tizimga kirish qoidalari</h3><p class="paragraph">3.1. Foydalanuvchi profilda Tizim xodimlaridan, xususan Administratordan olingan shaxsiy login va vaqtinchalik parol bilan Tizimda Profilini ro'yxatdan o'tkazadi.<br />
+        Tizim Foydalanuvchini tasdiqlash uchun bir qator xizmatlarni taqdim etadi:
+        <ul><li>Foydalanuvchini ro'yxatdan o'tkazishda shaxsni tasdiqlash;</li><li>Foydalanuvchi sozlamalarida shaxsiy ma'lumotlarni o'zgartirish;</li><li>tizimga kirishni tiklash;</li><li>foydalanuvchi bilan aloqani tasdiqlash,</li></ul>
+        bunda foydalanuvchining tasdiqlashi tanlov asosida elektron pochta yoki SMS xabar orqali amalga oshiriladi. Shu bilan birga, xizmatlardan foydalanganda har qanday kiruvchi SMS-xabar Foydalanuvchi uchun pullik, uning narxi aloqa operatori tomonidan belgilanadi.
+      </p><p class="paragraph">3.2. Ro'yxatga olish vaqtida foydalanuvchi o'z ma'lumotlarining to'g'riligini tekshirishga majbur: familiyasi, ismi, sharifi, tug'ilgan sanasi, jinsi. Ma'lumotlar qismida xatolar bo'lsa yoki nomuvofiqliklar bo'lsa, ro'yxatdan o'tishni tugatgandan so'ng Administrator bilan bog'lanish yoki Mijozlar bilan maslahat va texnik yordam xizmatiga elektron pochta manziliga murojaat qilish kerak bo'ladi: <a href="mailto:team@kundalik.com">team@kundalik.com</a>. Bundan tashqari, Foydalanuvchi 7 kalendar kuni ichida uning kontaktlarini tasdiqlash va faollashtirish uchun elektron pochta manzili yoki telefon raqamini ko'rsatib o’tish kerak. Agar Foydalanuvchi kontaktni tasdiqlamasa, Tizimga kirish yopiladi va elektron pochta yoki telefon raqami orqali tasdiqlanadi. Tizim xizmatlaridan foydalanganda boshqa shaxsiy ma'lumotlar foydalanuvchi tomonidan uning so'roviga binoan taqdim etiladi. Ushbu Shartnomani qabul qilish (rozilik bildirish) bilan Foydalanuvchi ro‘yxatdan o‘tish davomida tanishish uchun bеrilgan <a class="link" href="https://www.kundalik.com/agreements/policy">Maxfiylik siyosatidan</a> xabardor ekanini tasdiqlaydi.</p><p class="paragraph">3.3. Ro'yxatga olish vaqtida foydalanuvchi o'zi tomonidan berilgan vaqtinchalik foydalanuvchi nomini (login) va vaqtinchalik parolni mustaqil ravishda kiritadi. Ro'yxatdan o'tish bosqichida foydalanuvchi vaqtincha parolni doimiyga o'zgartiradi. Vaqtinchalik parol yo'qolganida, foydalanuvchi tizimda parolni tiklash uchun zarur bo'lgan tartibga o'tishi mumkin, Administrator yoki Mijozlarni maslahati va Texnik qo'llab-quvvatlash xizmatiga murojaat qilish zarur.</p><p class="paragraph">3.4. Tizimga ulanish tizimning mijozlar qismiga (Web-interfeysiga) Internet orqali avtorizatsiya qilingan foydalanuvchi tomonidan amalga oshiriladi. Foydalanuvchi nomi (login) va parollarning xavfsizligi uchun, ayniqsa uchinchi shaxslar tomonidan ularga kirish imkoniyati yo'qligiga javobgarlikni o'z zimmasiga oladi. Foydalanuvchining profilida amalga oshirilgan tizimdagi barcha harakatlar Foydalanuvchi tomonidan amalga oshirilgan hisoblanadi.</p><p class="paragraph">3.5. Foydalanuvchi Foydalanish shartnomasiga muvofiq ushbu Tizimdan asosan faqatgina notijorat maqsadlarda foydalanish majburiyatini oladi.</p><p class="paragraph">3.6. Foydalanuvchi uchun kirish ruxsati Administrator tomonidan to'xtatilishi mumkin. Tizimga kirishni to'xtatish tartibi Foydalanuvchidan faqat muayyan muassasada foydalanuvchi kabinetiga kirish huquqini olib tashlashni nazarda tutadi. Foydalanuvchiga Tizimdan foydalanishni to'xtatish quyidagi hollarda amalga oshirilishi mumkin:
+        <ul><li>Foydalanuvchini muassasada o'qish muddatining tugashi;</li><li>Foydalanuvchini muassasadan chiqarib yuborilishi;</li><li>Foydalanuvchini boshqa muassasaga o'tkazilishi;</li><li>Ota-onasi va/yoki qonuniy vakil bo'lgan foydalanuvchini o'qish muddatining tugashi/chiqarib yuborilishi/boshqa o'quv muassasasiga o'tkazilishi;</li><li>Muassasa xodimlarining mehnat munosabatlarini tugatish / o'zgartirish;</li><li>Muassasa xodimlarining davlat xizmatidan o'tishi shartlarini bekor qilish/o'zgartirish.</li></ul></p><p class="paragraph">3.7. Tizimdan foydalanuvchining profilini o'chirib tashlash Foydalanuvchining shaxsiy murojaati bilan va/yoki o'chirish uchun asoslar mavjud bo'lsa Administrator tomonidan amalga oshiriladi.</p><p class="paragraph">3.8. Barcha da'volar, so'rovlar, savollar, boshqa har qanday yozuvlar Administratsiyaga elektron pochta orqali yuboriladi: <a class="link" href="mailto:team@kundalik.com">team@kundalik.com</a>.</p><h3 class="h3">4-bo'lim. Administratsiya va foydalanuvchi o'rtasida o'zaro aloqa qilish qoidalari</h3><p class="paragraph">4.1. Administratsiya foydalanuvchilarga Internet orqali tizim xizmatlariga 24 soat davomida kirishni, jumladan, o'quv jarayonini qo'llab-quvvatlashning elektron vositalarini, kirishning xavfsizligini va texnik xizmat ko'rsatishning zarur darajasiga ega bo'lgan ma'lumotlarga kirish va ularni ko'zdan kechirishni ta'minlash majburiyatini oladi. Administratsiya, foydalanuvchini ogohlantirishsiz/roziligisiz biron bir xizmatni taqdim etish uchun uchinchi shaxslarni jalb qilish huquqiga ega.</p><p class="paragraph">4.2. Administratsiya foydalanuvchilarga o'zlarining profili ichida har qanday tizim xizmatlaridan foydalanish imkoniyatini taqdim etishga, shuningdek, O'zbekiston Respublikasi qonunchiligiga va ushbu Shartnomaga zid bo'lmagan turli usullar yordamida Tizimdagi har qanday materiallardan foydalanish vazifasini o'z zimmasiga oladi. Foydalanuvchi tomonidan Tizimning har qanday xizmatidan amalda foydalanish (shu jumladan pullik, pul mablag'lari kiritilishi sharti bilan) ushbu Shartnomada belgilangan shartlarda va tartibda, Pullik xizmatlarni taqdim etish to'g'risidagi shartnomani va/yoki aniq bir xizmatdan foydalanish bo'yicha alohida shartnoma asosida ma'lum bir xizmatdan foydalanuvchining muayyan xizmatdan foydalanishga roziligini anglatadi.</p><p class="paragraph">4.3. Administratsiya foydalanuvchilarning Tizimning vaqtincha ishlamay qolishi natijasida, jumladan, rejalashtirilgan yoki rejalashtirilmagan texnik va profilaktika ishlari, Internet-provayderlar, kompyuter tarmoqlari, serverlari va uskunalari, shuningdek, texnik nosozliklar, uchinchi tomonning noqonuniy xatti-harakatlari, foydalanuvchi tomonidan va/yoki fors-major holatlari natijasida kelib chiqqan foydalanuvchilarning bevosita yoki bilvosita moliyaviy yoki boshqa yo'qotishlari uchun Administratsiya javobgar bo'lmaydi. Bu holda Administratsiya qisqa muddat ichida tizimni ishlashini tiklash bo'yicha javobgarlikni o'ziga oladi.</p><p class="paragraph">4.4. Administratsiya hech qanday sharoitda shaxslarning intellektual huquqlarining buzilishi uchun javobgar bo'lmaydi, agar bunday buzilish Tizim foydalanuvchilari tomonidan Tizimda ma'lumotlar, materiallar yoki tasvirlarni yaratish, yuklash, joylashtirish, nusxasini ko'chirish yoki o'zgartirish natijasida yuzaga kelgan bo'lsa.</p><p class="paragraph">4.5. Ro'yxatga olish vaqtida foydalanuvchi tizimga kirish ma'lumotlarini (login va vaqtinchalik parol) oladi va uning xavfsizligi uchun to'liq javobgarlikni o'z zimmasiga oladi, jumladan login va parolning xavfsizligini ta'minlash bo'yicha barcha chora-tadbirlarga rioya qilish, shuningdek, foydalanuvchi logini va parolidan foydalanish bilan sodir etilgan barcha harakatlar uchun ham javobgar bo'ladi.</p><p class="paragraph">4.6. Shartnoma qoidalarini bajarish, shuningdek Tizim orqali Foydalanuvchiga xizmatlar ko‘rsatish uchun Administratsiya uning hamda ota-ona va/yoki qonuniy vakili bo‘lgan voyaga yetmaganning shaxsiy ma'lumotlarini yig‘adi va qayta ishlaydi. Shaxsga doir ma’lumotlarni qayta ishlash tamoyillari, tartibi va shartlari Ma’muriyat tomonidan <a class="link" href="https://www.kundalik.com/agreements/policy">Maxfiylik siyosatida</a> bеlgilab bеriladiva ushbu Shartnomani qabul qilish bilan Foydalanuvchilar u bilan tanishib chiqqanliklarini tasdiqlaydilar.</p><p class="paragraph">4.7. Shartnoma bo'yicha majburiyatlarni bajarish uchun foydalanuvchining roziligi shuni anglatadiki, foydalanuvchi unga o'z xohish-irodasini aniq belgilashga imkon beradigan xatti-harakatlarni, jumladan xolis harakatlarni amalga oshirishni, shu bilan cheklanib qolmasdan “Ro'yhatdan o'tish” tugmasini bosib amalga oshirishini anglatadi.</p><p class="paragraph">4.8. Tizimda ro'yxatga olingan foydalanuvchi, 4.7 bandda ko'rsatilgan harakatlarni amalga oshiradi, xususan, ma'lumotlarni Tizimga joylashtirish, Administratsiya tomonidan ishonib topshirilgan Administratsiya va/yoki uchinchi shaxs tomonidan shaxsiy ma'lumotlarning faqat 4.11-bandda ko'rsatilgan maqsadlar uchun qayta ishlanishiga roziligini bildiradi, xususan, profildagi shaxsiy ma'lumotlarni aks ettirish hamda profilda aks ettirilgan shaxsiy ma'lumotlar barcha uchun ochiq deb hisoblanadi.</p><p class="paragraph">4.9. Layoqatsiz foydalanuvchini Tizimda ro'yxatdan o'tkazish uning ota-onasi va/yoki qonuniy vakili tomonidan amalga oshiriladi, u Tizimda layoqatsiz foydalanuvchi shaxsiy ma'lumotlarini qayta ishlashga roziligini beradi, shuningdek uning profilga joylashtirilgan shaxsiy ma'lumotlari hamma uchun ochiq hisoblanadi.</p><p class="paragraph">4.10. Tizimda ro'yxatdan o'tgan, turli cheklovlarga ega foydalanuvchi 4.7.-bandda ko'rsatilgan yakuniy harakatlarni amalga oshiradi, xususan, ma'lumotlarni Tizimga joylashtirish, Administratsiya va/yoki Administratsiya tomonidan ishonib topshirilgan uchinchi shaxs tomonidan shaxsiy ma'lumotlarning faqat 4.11-bandda ko'rsatilgan maqsadlar uchun qayta ishlanishiga roziligini bildiradi. Foydalanuvchi shartnomasidagi ushbu bandga ko'ra, shaxsiy ma'lumotlarning Profilda aks ettirilishi, shuningdek profilda aks ettirilgan shaxsiy ma'lumotlar omma uchun ochiq bo'lishi ko'rib chiqiladi va Administratsiya o'zining tizimdagi shaxsiy ma'lumotlarini qayta ishlashga o'zining qonuniy vakilining yozma roziligini olganligini kafolatlaydi, uning profilga joylashtirilgan shaxsiy ma'lumotlari hammaga ochiq deb hisoblanadi.</p><p class="paragraph">4.11. Foydalanuvchi va voyaga еtmagan Foydalanuvchilarning shaxsiy ma’lumotlarini ota-ona va\yoki uning qonuniy vakili bo‘lganlar tomonidan qayta ishlashdan  maqsad, Ma’muriyat va\yoki uchinchi shaxslar tomonidan  ularga xizmatlarni ko‘rsatish, Tizim xizmatlaridan foydalanish imkoniyatlarini taqdim etish, rеklama kampaniyalarini o‘tkazish, targеtlangan rеklamalarni taqdim etish, statistik tadqiqotlar o‘tkazish va olingan statistik ma’lumotlarni tahlil qilish va Shartnomada hamda Tizimning tеgishli bo‘limlarida bayon qilingan boshqa harakatlarni amalga oshirishdan iborat va faqat rеklama to‘g‘risidagi va shaxsga oid ma’lumotlar to‘g‘risidagi O‘zbеkiston Rеspublikasining tartibga soluvchi qonun hujjatlariga muvofiq foydalanilishiga ruxsat etiladi.</p><p class="paragraph">4.12. Foydalanuvchining shaxsiy ma'lumotlarini qayta ishlashni Profil ma'lumotlari kiritilgan paytdan boshlab va Foydalanuvchining profili o'chirilgandan so'ng uch oy ichida Administratsiya tomonidan amalga oshiriladi.</p><p class="paragraph">4.13. Foydalanuvchi Administratsiya shaxsiy ma'lumotlarni qayta ishlash jarayonida shaxsiy ma'lumotlar bilan quyidagi harakatlarni bajarishi huquqiga ega ekanligiga rozilik beradi: yig'ish, tizimlashtirish, to'plash, saqlash, foydalanish, yo'q qilish va Shartnomani bajarish va Tizim xizmatlarini taqdim etish uchun zarur bo'lgan boshqa holatlar.</p><p class="paragraph">4.14. Foydalanuvchi Administratsiyaning statistik ma'lumotlarni to'plash va tahlil qilish uchun ilgari egasizlashtirilgan shaxsiy ma'lumotlarni uchinchi shaxslarga topshirish huquqiga ega ekanligiga rozilik bildiradi.</p><p class="paragraph">4.15. Ma’muriyat uchinchi shaxslarga, shu jumladan noshirlar va rеklama tarmoqlariga Tizimda rеklama ko‘rsatish uchun ruxsat bеrish huquqiga ega. Ko‘rsatib o‘tilgan uchinchi shaxslarning ba’zilari O‘zbеkiston Rеspublikasining tеgishli qonunlariga muvofiq Foydalanuvchiga onlayn-rеklama jo‘natayotganlarida ko‘rsatilgan kompyutеrni har safar idеntifikatsiya qilish maqsadida Foydalanuvchi kompyutеrida “cookie”-fayllarni joylashtirishlari mumkin. Bu esa, foydalanuvchilarning o‘z reklamalarini qayerda ko‘rganini va foydalanuvchilarga qiziqarli bo‘lgan reklamani  ko‘rsatish imkoniyatini beradi. Foydalanuvchi shaxsiy ma'lumotlarini ko‘rsatilgan uchinchi shaxslarga uzatmaydi. Agar foydalanuvchi ushbu ma'lumotni uchinchi shaxslarga berilishini istamasa, u kompyuterdagi sozlamalarni o‘zgartirib, ma'lumotlarni to‘plashni ta’qiqlash huquqiga ega.</p><p class="paragraph">4.16. Foydalanuvchi ro'yxatga olish paytida ko'rsatilgan kontakt ma'lumotlari (elektron pochta manzili, telefon raqami va h.k.) tizimga kiritilgan paytdan va tasdiqlangandan e'tiboran avtomatik ravishda Tizim to'g'risidagi yangiliklarni tarqatish tizimiga kiritilishiga rozilik beradi. Foydalanuvchilar istalgan vaqtda tizim haqida yangiliklarni qabul qilish sozlamalarini o'zgartirishi mumkin.</p><p class="paragraph">4.17. Foydalanuvchiga tizimga kirish uchun foydalanuvchi nomi (login), parol va boshqa tafsilotlarni og'zaki, yozma yoki boshqa tarzda boshqa shaxslarga yuborishga yo'l qo'yilmaydi. Foydalanuvchi ziyon yetkazish, uzilish, parollarni ruxsatsiz o'zgartirish va parolni bekor qilish, muddatlarni noqonuniy o'zgartirish holatlari yuzasidan Konsultatsiya va texnik yordam xizmatiga zudlik bilan xabar yetkazish majburiyatini o'z zimmasiga oladi. Foydalanuvchi, uning xabarisiz va roziligisiz foydalanuvchi kirish logini va parolidan foydalanilgan holda tizimga noqonuniy kirish amalga oshirilishi bilan bog'liq har qanday xavfsizlik buzilganligi haqida Administratsiyaga darhol xabar berish majburiyatini o'z zimmasiga oladi. Administratsiya, tizimga avtorizatsiya qilingan uchinchi tarafning kirish logini va parolni ishlatish natijasida kelib chiqqan ma'lumotlarni yo'qotish yoki buzish, jumladan, xavfsizlik buzishining har qanday oqibatlari uchun javobgarlikni o'z zimmasiga olmaydi. Foydalanuvchi parolni kamida 3 oyda bir marta o'zgartirishi majburiyatini oladi. Parolni o'zgartirganda tizim foydalanuvchisining so'nggi 5 parolini qayta ishlatish ta'qiqlanadi.</p><p class="paragraph">4.18. Administratsiya avtomatlashtirilgan parolni tiklash vositalarini beradi. Shu bilan birga, Administratsiya ushbu mablag'lardan foydalanishni cheklash, shuningdek o'z faoliyatini vaqtincha yoki to'liq to'xtatib qo'yish huquqini o'zida saqlab qoladi. Administrator Tizimga kirish uchun foydalanuvchining aybi bilan amalga oshirilgan ma'lumotlarning yo'qolishi hamda buning natijasida kelib chiqadigan har qanday oqibatlarga javobgar emas.</p><p class="paragraph">4.19. Foydalanuvchi ushbu Shartnomaning 5 va 6-bo'limlarini buzgan foydalanuvchilarga nisbatan Administratsiya tomonidan choralar ko'rilishi huquqi bilan rozi.</p><p class="paragraph">4.20. Foydalanuvchi ushbu Shartnomaning 5- va 6-bo'limlariga rioya etish majburiyatini o'z zimmasiga oladi. Foydalanuvchi ushbu Shartnomaning 5- va 6-bo'limlari talablarini buzganligi sababli, Administratsiya o'zining ixtiyoriga ko'ra va maxsus bildirishnoma yoki ogohlantirishsiz Foydalanuvchining Tizimga kirish huquqini cheklash huquqiga ega.</p><h3 class="h3">5-bo'lim. Intellektual mulk qonunlari bilan himoyalangan ma'lumotlarni joylashtirish qoidalari</h3><p class="paragraph">5.1. Tizimda taqdim etilgan barcha materiallar, jumladan tasvirlar, dastur kodlari, logotiplar, grafikalar, tovush tushirilgan qaydlar mualliflik huquqi yoki turdosh huquqlarga bo'ysunadi va intellektual mulk sohasida O'zbekiston Respublikasi qonunlariga muvofiq himoyalanadi.</p><p class="paragraph">5.2. Mualliflik huquqi va turdosh huquqlar, jumladan ixtiroga, foydali modelga, sanoat namunasi yoki tovar belgisiga bo'lgan mutlaq huquqlarni Tizimdan foydalanish davomida yuklab olish, almashtirish, foydalanuvchilar o'rtasida bir-biriga uzatish, uchinchi shaxslarning mutlaq huquqlarini buzadigan axborotni, ma'lumotlarni yoki rasmlarni joylashtirish ta'qiqlanadi.</p><p class="paragraph">5.3. Foydalanuvchi intellektual faoliyat natijalariga va uchinchi shaxslarni individuallashtirish vositalariga bo'lgan huquqlarni, xususan mualliflik huquqi va turdosh huquqlarni, shuningdek ixtiroga, foydali modelga, sanoat namunasiga yoki savdo markasiga bo'lgan mutlaq huquqlarini buzgan taqdirda javobgar bo'ladi.</p><p class="paragraph">5.4. Tizimning bo'limlarida Foydalanuvchi faqat amaldagi qonunlar va/yoki uchinchi shaxslarning huquqlarini buzmagan holda ushbu sharhlarni (profil tasviri, sharh matni va biriktirilgan fotosuratlarni o'z ichiga olgan) nashr qilishi mumkin. Agar bunday asar mualliflik huquqiga yoki uning tarkibiga kirsa, foydalanuvchi bunday foydalanish huquqiga ega ekanligini kafolatlaydi. Ko'rsatilgan ob'yektlarni nashr qilish orqali, Administratsiyaga ularni tarqatish, jo'natish, tarjima qilish, omma oldida namoyish qilish, efirga uzatish va tarqatish, jamoatchilik bilan muloqot qilish orqali ularni hudud va vaqt bo'yicha cheklashsiz foydalanish huquqini beradi.</p><p class="paragraph">5.5. Administratsiya, mualliflik huquqi egasi yoki unga aloqador bo'lmagan shaxsning iltimosiga binoan, mualliflik huquqi va unga aloqador huquqlarni o'z ichiga olgan uchinchi shaxslarning intellektual va/yoki eksklyuziv huquqlarini buzadigan har qanday axborotni bloklash huquqini o'zida saqlab qoladi.</p><h3 class="h3">6-bo'lim. Tizimdan ruxsatsiz foydalanish</h3><strong class="strong">Foydalanuvchiga quyidagilar ta'qiqlanadi:</strong><br /><p class="paragraph">6.1. Terrorizmni targ'ib qiluvchi yoki millatlararo, irqiy yoki diniy nizolarni qo'zg'atuvchi, shuningdek zo'ravonlik yoki o'limni, voyaga yetmaganlarga har qanday shaklda (shu jumladan, pornografiyaning har qanday shakllari) zarar yetkazish tavsifi yoki tasvirini namoyish qiluvchi yoki targ'ib qiluvchi matnlar, dasturlar, rasmlar yoki materiallarni Tizimning dasturiy vositalari va/yoki boshqa usullari orqali yuklab olish, joylashtirish, yuborish.</p><p class="paragraph">6.2. Tizim dasturini yoki noqonuniy xatti-harakatlarni, jumladan qimor o'yinlari, qurol-yaroq va narkotiklarni qonunga xilof ravishda sotishni rag'batlantiradigan har qanday shaklda nojo'ya materiallar va ma'lumotlarni o'z ichiga olgan matnlarni, dasturlarni, rasmlarni yoki materiallarni nashr qilishning boshqa usullarini ko'chirib olish, yuborish.</p><p class="paragraph">6.3. O'zbekiston Respublikasining qonun hujjatlariga muvofiq javobgarlikka tortilgan jinoyat yoki buzg'unchi xatti-harakatlarni sodir etish yoki ularga ruxsat berish.</p><p class="paragraph">6.4. Soxta sxemalar, tarmoq marketingi sxemalari (MLM), Internetda daromad tizimlari haqida ma'lumotni yuklab olish, saqlash, ishlatish yoki yuborish.</p><p class="paragraph">6.5. O'zini boshqa shaxs yoki tashkilot va/yoki jamiyatni vakili deya tanishtirish, <strong class="strong">haqiqatga mos kelmaydigan rollarni (profillarni) qo'llash</strong>, shuningdek boshqa foydalanuvchilarni yanglish yo'lga yo'naltirish.</p><p class="paragraph">6.6. Tizimdan tashqaridagi boshqa foydalanuvchilarning ma'lumotlarini qo'lda yoki avtomatik rejimda to'plash va saqlash.</p><p class="paragraph">6.7. Tizimning ishlashiga turli yo'llar bilan to'sqinlik qilish, jumladan ruxsatsiz yo'q qilish, blokirovka qilish, o'zgartirish, nusxa olish yoki kompyuter ma'lumotlarini himoya qilish vositalarini zararsizlantirish, shuningdek har qanday kompyuter dasturlari (kompyuter viruslari)ni buzish, yo'q qilish yoki cheklash, ularga ruxsatsiz kira olish uchun hamda tizimning pullik xizmatlariga ruxsatsiz kirish uchun tijorat dasturiy mahsulotlar va ularni yaratish dasturlari, tizimga kirish tizimlari, parollar va boshqa vositalarning seriya raqamlari, shuningdek yuqorida ko'rsatilgan ma'lumotlarga havolalarni taqdim etishga mo'ljallangan kompyuter dasturlarini yaratish, tarqatish yoki ulardan foydalanish.</p><p class="paragraph">6.8. Tizimdan foydalanuvchi, Tizimning axborot xavfsizligini buzmaslik majburiyatini o'z zimmasiga oladi, xususan, u quyidagilarni bajarmaslik majburiyatini o'z zimmasiga oladi:
+        <ul><li>Tizimning xavfsizlik tizimining zaifligini tekshirishga urinmaslik, tizimni ro'yxatdan o'tkazish va avtorizatsiya qilish tartibini buzish;</li><li>kompyuter viruslarining tarqalishi, ma'lumotlarning shikastlanishi, takrorlanadigan ma'lumotni doimiy ravishda pochta orqali jo'natish, Tizimning odatiy foydalanish doirasidan tashqariga chiqadigan va qasddan yoki beparvolik tufayli uning ishidagi xatolarga olib kelishi mumkin bo'lgan harakatlar, jumladan, tizim serverini qasddan o'chirib qo'yish uchun bir vaqtning katta hajmli elektron pochta xabarlarini va/yoki so'rovlarni yuborish kabilarni o'z ichiga olgan boshqa foydalanuvchilar tomonidan Tizimdan foydalanishga aralashishga urinmaslik;</li><li>Administratsiyaning iznisiz tizimga oid materiallarni Tizim foydalanuvchilariga ular rozilik bidirmagan materiallarni, jumladan “spam”, har qanday xatlar va reklamalarni jo'natmaslik;</li><li>Tizimda e'lon qilingan har qanday elektron pochta yoki materialda biron bir TCP/IP paketi sarlavhasini yoki sarlavhaning biron bir qismini taqlid qilish va/yoki soxtalashtirmaslik;</li><li>Tizimdagi o'rnatilgan qidiruv tizimidan va an'anaviy va ommaviy brauzerlardan (Microsoft Internet Explorer, Mozilla Firefox, Opera, Google Chrome va shunga o'xshash) tashqari tizimda navigatsiya yoki qidirish uchun biron bir dastur yoki jarayonlarni ishlatmaslik.</li></ul></p><h3 class="h3">7-bo'lim. Moderatsiya</h3><p class="paragraph">7.1. Administratsiya Tizimda foydalanuvchilar tomonidan joylashtirilgan barcha materiallarni moderatsiya qilish huquqini o'zida saqlab qoladi, ya'ni ushbu materiallarning mazmuni va sifatini kuzatib borish va agar kerak bo'lsa, o'z xohishiga ko'ra ogohlantirishsiz, sabablarini izohlamasdan ularni o'chirish yoki ko'chirish. Administratsiya moderatsiya tartibida olib borilgan harakatlarning oqibatlari uchun javobgarlikni o'z zimmasiga olmaydi.</p><h3 class="h3">8-bo'lim. Yakuniy qoidalar</h3><p class="paragraph">8.1. Administratsiya ushbu Shartnomaning 5- va 6-bo'limlarini buzgan Foydalanuvchiga nisbatan Muassasani oldindan ogohlantirmasdan darhol zarur choralarni qo'llash huquqini o'zida saqlab qoladi. Bundan tashqari, ushbu Shartnoma Foydalanuvchi tomonidan buzilgan hollarda, Administratsiya huquqni muhofaza qilish organlari vakillariga ushbu foydalanuvchi shartnomasini hamda O'zbekiston Respublikasi qonunchiligini buzgan foydalanuvchi to'g'risidagi ma'lumotlarni to'plash va taqdim etishda faol yordam berishga majburdir.</p><p class="paragraph">8.2. Tizimning ayrim xizmatlarining materiallari yoki xususiyatlariga qarab, Administratsiya ushbu turdagi materiallar va xizmatlarga, jumladan, yoshga oid cheklashlarni ro'yxatdan o'tkazish va ulardan foydalanish uchun maxsus shartlarni qo'yishi mumkin.</p><p class="paragraph">8.3. Tizimda ro'yxatdan o'tish orqali Foydalanuvchi Shartnomaning barcha qoidalarini shartli ravishda qabul qilganligini hamda ro'yxatga olish shakllarida aks ettirilgan va muvaffaqiyatli ro'yxatdan o'tish uchun zarur bo'lgan barcha shartlarga muvofiqligini tasdiqlaydi. Kеlgusi davr uchun “elеktron kundalik” uchun navbatdagi to‘lovni amalga oshirish davomida Foydalanuvchi ushbu Shartnomaning amal qilish muddatini uzaytiradi, shuningdеk, Shartnomaning barcha qoidalarini so‘zsiz qabul qilishini tasdiqlaydi. Shartnomani amal qilish muddati (ushbu shartnomaning 3.6-bandi “tizimga kirishni to‘xtatish hollari” va 4.12-bandi “qayta ishlash muddatlari” qoidalarini inobatga olib) 12 oyini tashkil qiladi va “electron kundalik” to’lovi amalga oshirilishi bilan keying 12 oy muddatga uzaytirilgan hisoblanadi.</p><p class="paragraph">8.4. Ro'yxatdan o'tish paytida Foydalanuvchi Tizimga kirish ma'lumotlarini (login va vaqtinchalik parol) oladi va uning xavfsizligi, jumladan, foydalanuvchi nomi (login) va paroli hamda foydalanuvchi nomi (login) va paroli yordamida amalga oshirilgan barha xatti-harakatlarning xavfsizligini ta'minlash bo'yicha barcha choralar, shuningdek barcha harakatlar uchun javobgarlikni o'z zimmasiga oladi.</p><p class="paragraph">8.5. Foydalanuvchi tizimga kirish huquqi bilan bog'liq har qanday xavfsizlikni buzish holatlari haqida Administratsiyaga darhol xabar berish majburiyatini qabul qiladi, bunda Administratorning foydalanuvchi xabarisiz va roziligisiz foydalanuvchi kirish va parolidan foydalanishiga ruxsat beriladi. Administratsiya xavfsizlikni buzishning har qanday oqibatlari, jumladan, tizimga avtorizatsiya qilingan uchinchi tomonning kirish va parolni ishlatish natijasida yuzaga kelgan ma'lumotlarni yo'qotish uchun javobgarlikni o'z zimmasiga olmaydi.</p><p class="paragraph">8.6. Administratsiya va foydalanuvchilar o'rtasidagi nizolar muzokaralar yo'li bilan hal qilinadi, agar bunday imkoniyat mavjud bo'lmasa, Administratsiya joylashgan manzildagi sudda, O'zbekiston Respublikasi qonunchiligiga muvofiq hal qilinadi.</p><p class="paragraph">8.7. Ushbu Shartnomaga muvofiq tomonlar o'rtasidagi munosabatlar O'zbekiston Respublikasi qonunlari bilan tartibga solinadi.</p></div>
+    
+</div>
+        </div>
+    </div>
+</div>
+</div>
+
+<footer class="footer">
+    <div class="footer__menu">
+        <div>
+            <div class="footer__menu__links">
+                    <div class="footer__column_25">
+                            <div class="footer__menu__links__title">Tashkilot haqida</div>
+                            <ul class="footer__menu__links__layout">
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=ru-RU&amp;currentUrl=https:%252F%252Fkundalik.com%252Fabout" class="footer__menu__links__item">Biz haqimizda</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=uz-Latn-UZ&amp;currentUrl=https:%252F%252Fkundalik.com%252Fnews" class="footer__menu__links__item">Yangiliklar</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=uz-Latn-UZ&amp;currentUrl=https:%252F%252Fkundalik.com%252Fcontacts" class="footer__menu__links__item">Aloqa uchun ma&#39;lumotlar</a>
+                                    </li>
+                            </ul>
+                    </div>
+                    <div class="footer__column_25">
+                            <div class="footer__menu__links__title">Imkoniyatlar</div>
+                            <ul class="footer__menu__links__layout">
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures#/teachers" class="footer__menu__links__item">O‘qituvchilarga</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures#/parents" class="footer__menu__links__item">Ota-onalarga</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures#/students" class="footer__menu__links__item">O‘quvchilarga</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=ru-RU&amp;currentUrl=http:%252F%252Fkundalik.com%252Ffeatures#/governments" class="footer__menu__links__item">Davlat organlariga</a>
+                                    </li>
+                            </ul>
+                    </div>
+                    <div class="footer__column_25">
+                            <div class="footer__menu__links__title">Hamkorlarga</div>
+                            <ul class="footer__menu__links__layout">
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="./change?newCulture=ru-RU&amp;currentUrl=https:%252F%252Fkundalik.com%252Fforpartners" class="footer__menu__links__item">Hamkorlik dasturlari</a>
+                                    </li>
+                            </ul>
+                    </div>
+                <div class="footer__column_25">
+                    <div class="footer__menu__links__last-column-wrapper">
+                            <div class="footer__menu__links__title footer__menu__links__title_no-margin-top">
+                                Qo‘llab-quvvatlash
+                            </div>
+                            <div class="footer__menu__links__support">
+                                    <a href="https://help.kundalik.com" class="footer__menu__links__support__link">Qo‘llab-quvvatlash xizmati portal</a>
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div>
+                <div class="footer__menu__buttons">
+                        <div class="footer__column_25">
+                            <div class="sociallinks">
+        <a class="sociallinks__button sociallinks__button_facebook " href="https://www.facebook.com/KundalikUzbekistan" target="_blank" title="Facebook da Kundalik"></a>
+        <a class="sociallinks__button sociallinks__button_instagram " href="https://instagram.com/kundalikuzbekistan" target="_blank" title="Instagram da Kundalik"></a>
+        <a class="sociallinks__button sociallinks__button_telegram " href="https://t.me/kundalik_com" target="_blank" title="Telegram da Kundalik"></a>
+        <a class="sociallinks__button sociallinks__button_youtube " href="https://www.youtube.com/channel/UCXEyWtrq2E7ZQ3D8tiOmCZg" target="_blank" title="YouTube da Kundalik"></a>
+        <a class="sociallinks__button sociallinks__button_mover " href="https://mover.uz/channel/kundalikcom/" target="_blank" title="Mover da Kundalik"></a>
+</div>
+                        </div>
+                                            <div class="footer__column_25 footer__join">
+                            <a href="https://login.kundalik.com/join/role" title="Tashkilotni ulash" class="button button_green button_full-width    " onclick="" 
+   data-category="" data-action="" data-target="">
+    Tashkilotni ulash
+</a>
+                        </div>
+                </div>
+            </div>
+    </div>
+    <div class="footer__copyright">
+        <div class="footer__copyright-content">
+            
+            <div class="footer__copyright-item">
+                <div class="footer__copyright__terms">
+
+                        <a href="./change?newCulture=uz-Latn-UZ&amp;currentUrl=https:%252F%252Fkundalik.com%252Fagreements%252Fterms" class="footer__copyright__terms__link">Foydalanuvchining shartnomasi </a>
+                </div>
+            </div>
+            <div class="footer__copyright-item">
+                <div class="footer__copyright__label">&#169; 2023 ООО &#171;Kundalik&#187;</div>
+            </div>
+        </div>
+    </div>
+
+</footer>
+<script>require(['Footer/Footer'], function () { for(var i = 0, l = arguments.length; i < l; i += 1) { arguments[i](JSON.parse('null')); } });</script>
+
+    <script type="text/javascript">
+    require(['yandexMetrika/yandexMetrikaCounter']);
+    require(['analytics/commonYaMetrika']);
+</script>
+<noscript>
+    <div>
+            <img src="https://mc.yandex.ru/watch/52725535" style="position: absolute; left: -9999px;" alt=""/>
+    </div>
+</noscript>
+    <script type="text/javascript">
+        require(['ab/ab'], function (ab) {
+            window.onload = function () {
+                var metrikaIds = dnevnik.settings.yandexMetrikaIds;
+                metrikaIds.forEach(metrikaId => {
+                    if (!window['yaCounter' + metrikaId]) {
+                        console.debug('Yandex.Metrika with id ' + metrikaId + ' not loaded!');
+                    }
+                })
+                
+                ab.init({
+                    subdomain: '',
+                    group: 'groupA'
+                });
+
+                ab.start();
+            };
+        });
+    </script>
+
+    
+
+</body>
+</html>
